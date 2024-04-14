@@ -19,7 +19,7 @@ const Hero = () => {
                 </div>
             </div>
             <div className='col-span-3'>
-                <h1 data-aos="fade-left" data-aos-delay="400" className='text-[50px] xl:text-[26px] text-orange-500 font-semibold'>Hello I'm</h1>
+                <h1 data-aos="fade-left" data-aos-delay="400" className='text-[50px] xl:text-[26px] text-orange-500 font-semibold'>Hello I am</h1>
                 <h1 data-aos="fade-right" data-aos-delay="600" className='text-[35px] lg:text-[45px] xl:text-[60px] font-bold text-white'>Iury <span className='text-red-500 '>Gabriel!</span></h1>
                 <h1 data-aos="fade-left" data-aos-delay="800" className='text-[24px] lg:text-[28px] xl:text-[35px] text-white text-opacity-80'>Fullstack Web Developer</h1>
                 <p data-aos="fade-right" data-aos-delay="1000" className='text-[16px] xl:text-[18px] text-white text-opacity-60 mt-[1.5rem]'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque ut iste nam fuga ad animi. Officia aliquam quaerat vero soluta?</p>
